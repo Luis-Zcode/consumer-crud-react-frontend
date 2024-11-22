@@ -13,7 +13,6 @@ Este proyecto proporciona la interfaz de usuario para una aplicación, desarroll
 - **React:** Biblioteca para la construcción de interfaces de usuario.
 - **Ant Design:** Framework de diseño de UI para React.
 - **Axios:** Cliente HTTP para realizar peticiones a las APIs.
-- **React Router:** Biblioteca para manejo de rutas en React.
 - **JavaScript (ES6+):** Lenguaje principal de desarrollo.
 
 ## Requisitos Previos
